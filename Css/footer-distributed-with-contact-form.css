@@ -1,3 +1,10 @@
+/* HOME*/
+
+
+
+}
+
+/* Slide show on home page*/
 
  #slideshow {
   margin: 80px auto;
@@ -9,14 +16,14 @@
 }
 
 #slideshow > div {
-  position: absolute;
-  top: 10px;
-  left: 10px;
+  position:;
+  top: 100px;
+  left: 100px;
   right: 10px;
   bottom: 10px;
 }
 
-
+/* TEXT STYLES AND COLORS */
 h1
 {
     text-align: center;
@@ -32,7 +39,7 @@ h1
     text-align: center;
 }
 
-
+/* NAVIGATION */
 ul {
     list-style-type: none;
     margin: 0;
@@ -62,7 +69,7 @@ ui a {
 
 
 
-
+/* FOOTER*/
 
 
 
