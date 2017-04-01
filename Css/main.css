@@ -9,6 +9,13 @@
 
 /*ABOUT PAGE END*/
 
+
+.contactform{
+   color: red;
+
+}
+
+
 /*FOOTER */
 
 .footer-distributed{
@@ -158,7 +165,5 @@
 	font-weight: bold;
 	float: right;
 }
-
-/* If you don't want the footer to be responsive, remove these media queries */
 
     /*FOOTER END*/
