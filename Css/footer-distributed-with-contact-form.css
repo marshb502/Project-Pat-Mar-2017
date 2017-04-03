@@ -1,7 +1,17 @@
 /* HOME*/
 
-#bground{
+.wrap {
+    height: 357px;
+    overflow: hidden;
     position: relative;
+}
+.image {
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+  background:url('http://i827.photobucket.com/albums/zz192/2namezz/TheLaMarMixtape_zps1pnagyrr.jpg') no-repeat;
+    width:500px;
+    height:357px;
 }
 
 
@@ -31,6 +41,7 @@ h1
     text-align: center;
     color: red;
     font-weight: 1.50em;
+    font-size: 24px;
 }
 
 
@@ -235,7 +246,7 @@ ui a {
 	float: right;
 }
 
-/* If you don't want the footer to be responsive, remove these media queries */
+/* END FOOTER */
 
 @media (max-width: 1000px) {
 
