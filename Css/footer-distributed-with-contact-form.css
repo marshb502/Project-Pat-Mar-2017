@@ -1,19 +1,5 @@
 /* HOME*/
 
-.wrap {
-    height: 357px;
-    overflow: hidden;
-    position: relative;
-}
-.image {
-    position: absolute;
-    left: 50%;
-    margin-left: -250px;
-  background:url('http://i827.photobucket.com/albums/zz192/2namezz/TheLaMarMixtape_zps1pnagyrr.jpg') no-repeat;
-    width:500px;
-    height:357px;
-}
-
 
 
 /* Slide show on home page*/
